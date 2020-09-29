@@ -1,0 +1,7 @@
+life_form,cost,link
+Plant 1,$10,http://example.com/plant1
+Plant 2,$20,http://example.com/plant2
+Plant 3,$30,http://example.com/plant3
+Animal 1,$500,http://example.com/animal1
+Animal 2,$600,http://example.com/animal2
+Animal 3,$700,http://example.com/animal3
